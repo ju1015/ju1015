@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋🏽, I'm Rupayan Sarkar</h1>
-<h3 align="center">AI Engineer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer | Problem Solver</h3>
+
 
 <img align='right' src="https://github.com/DipanMondal/DipanMondal/blob/main/Screenshot%202024-11-18%20020527.png" width="100">
 
-🚀 I’m currently working on **deep learning models and optimization algorithms**<br>
-🔭 Ask me about **Python, C++, Machine Learning, DSA**<br>
-🎯 Actively solving problems on <a href="https://leetcode.com/u/sarkarrupayan9734/">LeetCode</a><br>
-👨‍💻 I'm currently hustling on projects and contributing to open source<br>
-📫 You can reach me at **sarkarrupayan9734@gmail.com**<br>
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/rupayan-sarkar-ab2757210/)<br>
+🚀 Final-year IT undergraduate at Jadavpur University with strong interest in backend systems and full-stack development<br>
+🔭 Ask me about **C++, Java, JavaScript, Node.js, Express.js, MongoDB, DSA, OOPS, DBMS**<br>
+🎯 Regularly solving DSA problems on <a href="https://leetcode.com/u/sarkarrupayan9734/">LeetCode</a><br>
+👨‍💻 Building real-world projects using **Docker, REST APIs, authentication, and scalable backend design**<br>
+📫 Reach me at **sarkarrupayan9734@gmail.com**<br>
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/rupayan-sarkar-ab2757210/)
 
 <div align="center">
 
