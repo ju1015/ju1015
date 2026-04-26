@@ -5,7 +5,7 @@
 <img align='right' src="https://github.com/DipanMondal/DipanMondal/blob/main/Screenshot%202024-11-18%20020527.png" width="100">
 
 🚀 Final-year IT undergraduate at Jadavpur University with strong interest in backend systems and full-stack development<br>
-🔭 Ask me about **C++, Java, JavaScript, Node.js, Express.js, MongoDB, DSA, OOPS, DBMS**<br>
+🔭 Ask me about **C++, Java, JavaScript, Python, Node.js, Express.js, FastAPI, MongoDB, DSA, OOPS, Computer Networks,System Design, DBMS**<br>
 🎯 Regularly solving DSA problems on <a href="https://leetcode.com/u/sarkarrupayan9734/">LeetCode</a><br>
 👨‍💻 Building real-world projects using **Docker, REST APIs, authentication, and scalable backend design**<br>
 📫 Reach me at **sarkarrupayan9734@gmail.com**<br>
