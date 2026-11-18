@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Developer | Backend Engineer | Problem Solver</h3>
 
 
-<img align='right' src="https://github.com/DipanMondal/DipanMondal/blob/main/Screenshot%202024-11-18%20020527.png" width="100">
-
 🚀 Final-year IT undergraduate at Jadavpur University with strong interest in backend systems and full-stack development<br>
 🔭 Ask me about **C++, Java, JavaScript, Python, Node.js, Express.js, FastAPI, MongoDB, DSA, OOPS, Computer Networks,System Design, DBMS**<br>
 🎯 Regularly solving DSA problems on <a href="https://leetcode.com/u/sarkarrupayan9734/">LeetCode</a><br>
